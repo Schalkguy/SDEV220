@@ -1,0 +1,33 @@
+Problem 1
+No closing quotation mark
+Use == instead of in
+Use bracket for list not )
+use else not elif
+final line should be indented
+
+Problem 2
+authors is misspelled
+move for loop outside of dict
+use (author, date) not author date 
+items() not items{}
+
+Problem 3
+use = not == for assignment
+final check use else not elif
+have to escape the apostophe 
+colon at end of if
+
+Problem 4
+exam_3 shouldn't be a string
+style use exam_three
+no comma in grades list
+name of list is grade not grades
+grades not grdes
+colon at end of avg < 90
+>= 70 not 69
+>= go not 69 for D
+else not elif for last statement
+Don't need to print avg three times
+extra close paren on print statements
+letter_grade not letter-grade
+no parenthesis on print statement
